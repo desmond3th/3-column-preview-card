@@ -1,0 +1,124 @@
+body{
+    width: 1420px;
+    /* 
+    background-image: url(https://img.freepik.com/free-vector/programmer-s-workplace-writing-code-laptop_80328-238.jpg
+    ?t=st=1654770044~exp=1654770644~hmac=6418b4d5ae1b4943c47b697309146c5bac10f1bfbbb39c4076f3be55cbc1932f&w=2000);
+    */
+   /* background-size:     cover;                   
+    background-repeat:   no-repeat;
+    background-position: center center; */
+
+    background: rgb(0,105,112);
+    background: radial-gradient(circle, rgba(0,105,112,1) 0%, rgba(50,62,129,1) 16%, rgba(0,85,88,1) 100%);
+}
+
+h1{
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+}
+
+p{
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  color: hsla(0, 0%, 100%, 0.75);
+  line-height: 1.5;
+  margin-bottom: 100px;
+}
+
+
+.table-1{
+    background-color: hsl(31, 77%, 52%);
+    /* background-color: hsl(49, 75%, 43%); */
+    width: 250px;
+    height: 370px;
+    margin: 150px 300px 150px; 
+    width: 15%;
+    padding: 30px; 
+    border-radius: 10px 0 0 10px;    
+    /* box-shadow: 0 0 30px rgb(45, 10, 10); */
+}
+
+.btn1 {  
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    background: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    line-height: 0.2; 
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    text-decoration: none;
+  }
+
+.table-2{
+    background-color: hsl(184, 100%, 22%);
+    position: absolute;
+    top: 0;
+    left: 280px;
+    width: 250px;
+    height: 370px;
+    margin: 150px 300px 150px;
+    width: 15%;
+    padding: 30px;   
+    /* box-shadow: 0 0 30px rgb(45, 10, 10); */
+}
+
+.btn2 {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    background: hsl(0, 0%, 95%);
+    color: hsl(184, 100%, 22%);
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    text-decoration: none;
+  }
+
+.table-3{
+    background-color: hsl(179, 100%, 13%);
+    position: absolute;
+    top: 0;
+    left: 550px;
+    width: 250px;
+    height: 370px;  
+    margin: 150px 300px 150px;
+    width: 15%;
+    padding: 30px;   
+    border-radius: 0 10px 10px 0;
+    /* box-shadow: 0 0 30px rgb(45, 10, 10); */
+}
+
+.btn3 {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    background: hsl(0, 0%, 95%);
+    color: hsl(179, 100%, 13%);;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 10px 40px 40px 10px;
+  }
+  
+.btn:hover {
+    text-decoration: none;
+  }
+
+.container-two , 
+.contact {
+    text-align: center;
+    font-size: 	0.9375rem;
+    color: aliceblue;                                                           ;
+}
+
